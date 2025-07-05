@@ -42,7 +42,7 @@ This is a simple Spring Boot REST API for managing car data, including features 
 ## PUT http://localhost:8085/carData/update-cardata
 { <br>
   "carId": 1, <br>
-  "price": 2750000
+  "price": 2750000 <br>
 }
 
 ---
